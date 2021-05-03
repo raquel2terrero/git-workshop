@@ -22,6 +22,7 @@ A snapshot is the top-level tree that is being tracked, Git calls these snapshot
 The best way to interact with Git is via its command line interface.
 
 ### Basics
+* `git init`: initializes local repository (creates .git/ directory)
 * `git status`: tells you what’s going on.
 * `git add <filename>`: adds files to staging area.
 * `git commit`: creates a new commit.
