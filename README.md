@@ -3,7 +3,7 @@
 Main reference: [MIT's missing semester](https://missing.csail.mit.edu/2020/version-control/).
 
 ## Building blocks
-![git-uml.png](git-uml.png)
+![git-uml.PNG](git-uml.png)
 
 ### Objects
 An "object" is a blob, tree, or commit.
